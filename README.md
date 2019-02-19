@@ -3,7 +3,7 @@
 
 ### Contents of this Repo
 
-**maintainAspectRatio**: a snippet that allows one to embed a bit of content (esp a video) who's aspect ratio need to be maintained. There are a couple options in there for common aspect ratios.
+**constantAspectRatio**: a snippet that allows one to embed a bit of content (esp a video) who's aspect ratio need to be maintained. There are a couple options in there for common aspect ratios.
 
 **gulpinjector**: the code and instructions for a [Yeoman](https://yeoman.io/) generator used when scaffolding my dev environment for projects. What's there works, but needs to be streamlined by creating a custom generator. Feel free to do that yourself if you're feeling ambitious.
 
