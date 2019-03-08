@@ -1,7 +1,3 @@
-
-
-
-
 onclick='return triggerGA(this)' data-action='Clicked TOC0' data-label='Clicked text link'
 
 
