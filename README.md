@@ -1,6 +1,8 @@
 # UNIQLO Gadgets
 ## Collecting reusable code and tools to streamline development
 
+![](apparatus.png)
+
 ### Contents of this Repo
 
 **constantAspectRatio**: a snippet that allows one to embed a bit of content (esp a video) who's aspect ratio need to be maintained. There are a couple options in there for common aspect ratios.
