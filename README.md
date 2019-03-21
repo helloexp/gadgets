@@ -1,7 +1,7 @@
 # UNIQLO Gadgets
 ## Collecting reusable code and tools to streamline development
 
-![](apparatus.png)
+![](inspector.png)
 
 ### Contents of this Repo
 
