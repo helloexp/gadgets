@@ -1,0 +1,15 @@
+button.slick-prev,
+button.slick-arrow.slick-prev:hover,
+button.slick-arrow.slick-prev:focus {
+    width: 15px;
+    height: 69px;
+    background: url(https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1504016526668/images/sprite-uniqlo.png) -97px -727px no-repeat;
+}
+
+button.slick-next,
+button.slick-arrow.slick-next:hover,
+button.slick-arrow.slick-next:focus {
+    width: 15px;
+    height: 69px;
+    background: url(https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1504016526668/images/sprite-uniqlo.png) -108px -819px no-repeat;
+}
